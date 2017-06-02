@@ -9,6 +9,14 @@ This README outlines the details of collaborating on this Ember addon.
 * `npm install`
 * `bower install`
 
+## Usage
+
+* `ember install ember-console-component`
+
+Add `{{console-display}}` to your template.
+
+It will display the last 50 lines of `console.log` output.
+
 ## Running
 
 * `ember serve`
